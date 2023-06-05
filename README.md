@@ -4,7 +4,7 @@
 - 😄 I love coding and listening to cool podcasts
 - 🤔 I'm interested in a developer position in company with creative, cheerful
   team
-- ⚡ Fun fact: **I believe that dreams come true, we need just work at them...⚡**
+- ⚡ Fun fact: **I believe that dreams come true, you just have to work on them...⚡**
 - 📫 How to reach me: **olyazamlynska@gmail.com** or
   <a target="_blank" rel="noopener noreferrer" href="https://t.me/olyazamlynska"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="olya_zamlynska" height="30" width="30" /></a>
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/olha-zamlynska"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="olya_zamlynska" height="30" width="30" /></a>
