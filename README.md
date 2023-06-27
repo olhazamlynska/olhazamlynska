@@ -8,8 +8,9 @@
   them...⚡**
 - 📫 How to reach me, just lick on icon: <br/>
   <a target="_blank" rel="noopener noreferrer" href="https://t.me/olyazamlynska"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="olya_zamlynska" height="30" width="30" /></a>
-
+  <br/>
   <a target="_blank" rel="noopener noreferrer" href="mailto:olyazamlynska@gmail.com"><img align="center" src="./img/mail.png" alt="olya_zamlynska" height="30" width="30" /></a>
+  <br/>
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/olha-zamlynska"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="olya_zamlynska" height="30" width="30" /></a>
 
 ### My stack
