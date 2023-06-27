@@ -6,7 +6,7 @@
   team
 - ⚡ Fun fact: **I believe that dreams come true, you just have to work on
   them...⚡**
-- 📫 How to reach me, just lick on icon:
+- 📫 How to reach me, just lick on icon: <br/>
   <a target="_blank" rel="noopener noreferrer" href="https://t.me/olyazamlynska"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="olya_zamlynska" height="30" width="30" /></a>
 
   <a target="_blank" rel="noopener noreferrer" href="mailto:olyazamlynska@gmail.com"><img align="center" src="./img/mail.png" alt="olya_zamlynska" height="30" width="30" /></a>
