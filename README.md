@@ -1,6 +1,6 @@
 ### Hi there, I am Olya Zamlynska 👋
 
-- 🌱 I'm a Full-Stack developer currently open to new opportunities
+- 🌱 I'm a JavaScript developer currently open to new opportunities
 - 😄 I love coding and listening to cool podcasts
 - 🤔 I'm interested in a developer position in a company with creative, cheerful
   team
