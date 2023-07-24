@@ -7,9 +7,9 @@
 - ⚡ Fun fact: **I believe that dreams come true, you have to work on
   them...⚡**
 - 📫 How to reach me, click on an icon: <br/>
-  <a target="_blank" rel="noopener noreferrer" href="https://t.me/olyazamlynska"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="olya_zamlynska" height="30" width="30" /></a>
-  <a target="_blank" rel="noopener noreferrer" href="mailto:olyazamlynska@gmail.com"><img align="center" src="./img/mailyel.png" alt="olya_zamlynska" height="30" width="30"  /></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/olha-zamlynska"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="olya_zamlynska" height="30" width="30" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://t.me/olhazamlynska"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="olya_zamlynska" height="30" width="30" /></a>
+  <a target="_blank" rel="noopener noreferrer" href="mailto:olhazamlynska@gmail.com"><img align="center" src="./img/mailyel.png" alt="olya_zamlynska" height="30" width="30"  /></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/olhazamlynska"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="olya_zamlynska" height="30" width="30" /></a>
 
 ### My stack
 
