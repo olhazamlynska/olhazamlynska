@@ -1,4 +1,4 @@
-### Hi there, I am Olha Zamlynska 👋
+### Hi there 👋
 
 - 🌱 I'm a JavaScript developer currently open to new opportunities
 - 😄 I love coding and listening to cool podcasts
